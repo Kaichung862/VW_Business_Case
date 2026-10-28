@@ -1,18 +1,18 @@
-VW After the Capacity Cuts
+# VW After the Capacity Cuts
 
-Capacity cuts bought time, not competitiveness: Volkswagen's next move on unit cost.
+### Capacity cuts bought time, not competitiveness: Volkswagen's next move on unit cost.
 
 A business strategy case study on how Volkswagen should respond to Chinese electric-vehicle imports after the EU's October 2024 anti-subsidy duties. The project combines public trade data (Eurostat), company filings and press releases, and a transparent set of estimates to reach one recommendation, delivered as a 12-minute board-level presentation.
 
-The question
+### The question
 
 VW has cut capacity and costs, yet its own Passenger Cars brand earned a 2.4% operating margin in H1 2026 against a 6.5% target. Chinese EV imports have recovered despite the duties. What closes the remaining gap?
 
-The answer in one sentence
+### The answer in one sentence
 
 Announced savings are not closing VW's margin gap while Chinese imports return, so VW should cut entry-segment unit cost through shared platforms and external battery and software partners.
 
-Key findings
+### Key findings
 Finding	Evidence
 The margin gap is large	VW Passenger Cars 2.4% (3.8% before special items) vs a 6.5% target; Škoda earns 8.5%
 Duties slowed imports, then imports recovered	Chinese EV imports fell 20% after the duties (35,648 to 28,518 cars a month), then reached 36% above the pre-duty level in 2026 (48,395 a month)
@@ -22,7 +22,7 @@ A unit-cost program is estimated to save about €490 to €2,090 per entry car	
 
 The main limit of the recommendation is stated in the work itself: entry cars alone close at most about a third of the gap, so the approach has to extend to higher-volume models.
 
-Repository contents
+### Repository contents
 File	What it is
 VW After the Capacity Cuts.pptx	The final presentation: a cover and 10 slides structured as WHY, WHAT, HOW and a decision slide, with speaker notes
 Presentation script_ Capacity cuts bought time, not competitiveness.docx	Word-for-word script for every slide, timing plan, audience checkpoints and prepared answers for the Q&A
